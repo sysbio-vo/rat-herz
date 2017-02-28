@@ -1,2 +1,6 @@
 raws/
 pdata/
+plots/
+exprs/
+degs/
+*.Rhistory
